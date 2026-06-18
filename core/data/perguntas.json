@@ -1,0 +1,490 @@
+{
+  "Fácil": [
+    {
+      "pergunta": "Qual é a principal função da reciclagem?",
+      "alternativas": [
+        "Aumentar poluição",
+        "Destruir recursos",
+        "Gerar mais lixo",
+        "Reduzir resíduos"
+      ],
+      "correta": "Reduzir resíduos",
+      "personagem": "abelha_trabalhadora.png",
+      "dica": "Reciclar ajuda a reduzir o lixo e reaproveitar materiais."
+    },
+    {
+      "pergunta": "O que significa 'pegada ecológica'?",
+      "alternativas": [
+        "Tamanho do pé",
+        "Área de floresta",
+        "Quantidade de árvores",
+        "Impacto ambiental do consumo humano"
+      ],
+      "correta": "Impacto ambiental do consumo humano",
+      "personagem": "arara_azul.png",
+      "dica": "A pegada ecológica mede o impacto do nosso consumo no planeta."
+    },
+    {
+      "pergunta": "Qual destes materiais é reciclável?",
+      "alternativas": [
+        "Vidro",
+        "Papel",
+        "Plástico",
+        "Todos os anteriores"
+      ],
+      "correta": "Todos os anteriores",
+      "personagem": "guardiao_floresta.png",
+      "dica": "Vidro, papel e plástico podem ser reciclados."
+    },
+    {
+      "pergunta": "Qual é uma fonte de energia renovável?",
+      "alternativas": [
+        "Carvão",
+        "Petróleo",
+        "Gás natural",
+        "Solar"
+      ],
+      "correta": "Solar",
+      "personagem": "inseto_engenhoso.png",
+      "dica": "A energia solar é limpa e renovável."
+    },
+    {
+      "pergunta": "Plantar árvores ajuda a reduzir qual gás?",
+      "alternativas": [
+        "Oxigênio",
+        "Nitrogênio",
+        "Metano",
+        "CO2"
+      ],
+      "correta": "CO2",
+      "personagem": "lemure_divertido.png",
+      "dica": "As árvores absorvem dióxido de carbono."
+    },
+    {
+      "pergunta": "Qual é o símbolo internacional da reciclagem?",
+      "alternativas": [
+        "Folha verde",
+        "Globo terrestre",
+        "Árvore",
+        "Três setas em círculo"
+      ],
+      "correta": "Três setas em círculo",
+      "personagem": "peixe_aventureiro.png",
+      "dica": "O símbolo da reciclagem são três setas formando um círculo."
+    },
+    {
+      "pergunta": "Qual recurso natural é essencial para a vida?",
+      "alternativas": [
+        "Ouro",
+        "Carvão",
+        "Diamante",
+        "Água"
+      ],
+      "correta": "Água",
+      "personagem": "protetor_arvores.png",
+      "dica": "Sem água não há vida."
+    },
+    {
+      "pergunta": "O que significa 'energia limpa'?",
+      "alternativas": [
+        "Energia cara",
+        "Energia nuclear",
+        "Energia fóssil",
+        "Energia sem poluição"
+      ],
+      "correta": "Energia sem poluição",
+      "personagem": "tartaruga_sabia.png",
+      "dica": "Energia limpa não gera poluição."
+    },
+    {
+      "pergunta": "Qual animal indica saúde dos rios?",
+      "alternativas": [
+        "Peixe",
+        "Tartaruga",
+        "Jacaré",
+        "Sapo"
+      ],
+      "correta": "Sapo",
+      "personagem": "robo_ecologico.png",
+      "dica": "Sapos são indicadores da qualidade da água."
+    },
+    {
+      "pergunta": "Qual cor é associada à sustentabilidade?",
+      "alternativas": [
+        "Azul",
+        "Vermelho",
+        "Amarelo",
+        "Verde"
+      ],
+      "correta": "Verde",
+      "personagem": "urso_ecologico.png",
+      "dica": "O verde simboliza equilíbrio ambiental."
+    }
+  ],
+  "Médio": [
+    {
+      "pergunta": "O que é TI verde?",
+      "alternativas": [
+        "Computadores antigos",
+        "Energia nuclear",
+        "Marketing digital",
+        "Tecnologia sustentável"
+      ],
+      "correta": "Tecnologia sustentável",
+      "personagem": "abelha_trabalhadora.png",
+      "dica": "TI verde busca reduzir impactos ambientais da tecnologia."
+    },
+    {
+      "pergunta": "Qual é a principal vantagem da energia eólica?",
+      "alternativas": [
+        "É cara",
+        "Depende de carvão",
+        "Produz petróleo",
+        "Não polui"
+      ],
+      "correta": "Não polui",
+      "personagem": "arara_azul.png",
+      "dica": "A energia eólica é limpa e renovável."
+    },
+    {
+      "pergunta": "O que significa inovação digital no meio ambiente?",
+      "alternativas": [
+        "Jogos digitais",
+        "Marketing online",
+        "Energia fóssil",
+        "Uso de tecnologia para sustentabilidade"
+      ],
+      "correta": "Uso de tecnologia para sustentabilidade",
+      "personagem": "guardiao_floresta.png",
+      "dica": "Inovação digital ajuda a monitorar e preservar recursos."
+    },
+    {
+      "pergunta": "Qual tecnologia ajuda a monitorar desmatamento?",
+      "alternativas": [
+        "Drone",
+        "Radar",
+        "GPS",
+        "Satélite"
+      ],
+      "correta": "Satélite",
+      "personagem": "inseto_engenhoso.png",
+      "dica": "Satélites permitem acompanhar áreas desmatadas."
+    },
+    {
+      "pergunta": "Qual é o impacto do plástico nos oceanos?",
+      "alternativas": [
+        "Aumenta oxigênio",
+        "Produz energia",
+        "Neutraliza carbono",
+        "Mata animais marinhos"
+      ],
+      "correta": "Mata animais marinhos",
+      "personagem": "lemure_divertido.png",
+      "dica": "O plástico prejudica a vida marinha."
+    },
+    {
+      "pergunta": "O que significa neutralidade de carbono?",
+      "alternativas": [
+        "Não usar energia",
+        "Eliminar CO2",
+        "Produzir mais carbono",
+        "Equilibrar emissões e compensações"
+      ],
+      "correta": "Equilibrar emissões e compensações",
+      "personagem": "peixe_aventureiro.png",
+      "dica": "Neutralidade de carbono busca zerar emissões líquidas."
+    },
+    {
+      "pergunta": "Qual prática reduz a pegada ecológica no transporte?",
+      "alternativas": [
+        "Dirigir sozinho",
+        "Aumentar carros",
+        "Usar combustível fóssil",
+        "Usar bicicleta"
+      ],
+      "correta": "Usar bicicleta",
+      "personagem": "protetor_arvores.png",
+      "dica": "Transportes limpos reduzem impacto ambiental."
+    },
+    {
+      "pergunta": "Qual é a função dos painéis solares?",
+      "alternativas": [
+        "Produzir vento",
+        "Armazenar água",
+        "Produzir carvão",
+        "Gerar energia elétrica"
+      ],
+      "correta": "Gerar energia elétrica",
+      "personagem": "tartaruga_sabia.png",
+      "dica": "Painéis solares convertem luz em energia elétrica."
+    },
+    {
+      "pergunta": "O que é economia circular?",
+      "alternativas": [
+        "Economia de bancos",
+        "Círculo financeiro",
+        "Produção linear",
+        "Reutilizar recursos continuamente"
+      ],
+      "correta": "Reutilizar recursos continuamente",
+      "personagem": "robo_ecologico.png",
+      "dica": "Economia circular reaproveita materiais sem gerar lixo."
+    },
+    {
+      "pergunta": "Qual tecnologia ajuda na gestão de resíduos?",
+      "alternativas": [
+        "TV digital",
+        "GPS de carros",
+        "Energia fóssil",
+        "Sensores inteligentes"
+      ],
+      "correta": "Sensores inteligentes",
+      "personagem": "urso_ecologico.png",
+      "dica": "Sensores inteligentes monitoram coleta e reciclagem."
+    }
+  ],
+  "Difícil": [
+    {
+      "pergunta": "Como o blockchain pode ser usado no meio ambiente?",
+      "alternativas": [
+        "Criar moedas verdes",
+        "Aumentar poluição",
+        "Produzir petróleo",
+        "Rastrear créditos de carbono"
+      ],
+      "correta": "Rastrear créditos de carbono",
+      "personagem": "abelha_trabalhadora.png",
+      "dica": "Blockchain pode garantir transparência em créditos de carbono."
+    },
+    {
+      "pergunta": "Qual a relação entre big data e meio ambiente?",
+      "alternativas": [
+        "Criar redes sociais",
+        "Aumentar consumo",
+        "Produzir carvão",
+        "Monitorar dados ambientais"
+      ],
+      "correta": "Monitorar dados ambientais",
+      "personagem": "arara_azul.png",
+      "dica": "Big data ajuda a analisar padrões ambientais."
+    },
+    {
+      "pergunta": "Como a IA ajuda na previsão de desastres?",
+      "alternativas": [
+        "Criando jogos",
+        "Produzindo energia",
+        "Gerando lixo eletrônico",
+        "Analisando padrões climáticos"
+      ],
+      "correta": "Analisando padrões climáticos",
+      "personagem": "guardiao_floresta.png",
+      "dica": "IA prevê enchentes e secas analisando dados climáticos."
+    },
+    {
+      "pergunta": "O que significa greenwashing?",
+      "alternativas": [
+        "Energia verde real",
+        "Reciclagem correta",
+        "Produção limpa",
+        "Marketing falso de sustentabilidade"
+      ],
+      "correta": "Marketing falso de sustentabilidade",
+      "personagem": "inseto_engenhoso.png",
+      "dica": "Greenwashing é propaganda enganosa sobre ser sustentável."
+    },
+    {
+      "pergunta": "Qual a diferença entre pegada de carbono e ecológica?",
+      "alternativas": [
+        "São iguais",
+        "Nenhuma diferença",
+        "Carbono foca em água",
+        "Carbono foca em CO2, ecológica em recursos"
+      ],
+      "correta": "Carbono foca em CO2, ecológica em recursos",
+      "personagem": "lemure_divertido.png",
+      "dica": "Pegada de carbono mede emissões de CO2; ecológica mede uso de recursos."
+    },
+    {
+      "pergunta": "Como smart cities contribuem para sustentabilidade?",
+      "alternativas": [
+        "Mais prédios",
+        "Mais carros",
+        "Produção de carvão",
+        "Gestão inteligente de recursos"
+      ],
+      "correta": "Gestão inteligente de recursos",
+      "personagem": "peixe_aventureiro.png",
+      "dica": "Cidades inteligentes usam tecnologia para reduzir impactos ambientais."
+    },
+    {
+      "pergunta": "Qual o papel da nuvem verde?",
+      "alternativas": [
+        "Aumentar servidores",
+        "Gerar poluição",
+        "Produzir carvão",
+        "Reduzir emissões de TI"
+      ],
+      "correta": "Reduzir emissões de TI",
+      "personagem": "protetor_arvores.png",
+      "dica": "Nuvem verde otimiza consumo energético em data centers."
+    },
+    {
+      "pergunta": "Qual a importância da ISO 14001?",
+      "alternativas": [
+        "Norma de segurança",
+        "Norma financeira",
+        "Norma de TI",
+        "Norma de gestão ambiental"
+      ],
+      "correta": "Norma de gestão ambiental",
+      "personagem": "tartaruga_sabia.png",
+      "dica": "ISO 14001 define padrões de gestão ambiental para empresas."
+    },
+    {
+      "pergunta": "Como IoT ajuda na energia?",
+      "alternativas": [
+        "Cria redes sociais",
+        "Produz petróleo",
+        "Aumenta poluição",
+        "Otimiza consumo em edifícios"
+      ],
+      "correta": "Otimiza consumo em edifícios",
+      "personagem": "robo_ecologico.png",
+      "dica": "Sensores IoT reduzem desperdício de energia em prédios."
+    },
+    {
+      "pergunta": "Qual o impacto da mineração de criptomoedas?",
+      "alternativas": [
+        "Reduz poluição",
+        "Neutraliza carbono",
+        "Produz energia limpa",
+        "Aumenta pegada ecológica"
+      ],
+      "correta": "Aumenta pegada ecológica",
+      "personagem": "urso_ecologico.png",
+      "dica": "Mineração de criptomoedas consome muita energia elétrica."
+    }
+  ],
+  "Pesadelo": [
+    {
+      "pergunta": "Qual é o maior impacto da mineração de criptomoedas?",
+      "alternativas": [
+        "Reduz poluição",
+        "Neutraliza carbono",
+        "Produz energia limpa",
+        "Aumenta consumo energético"
+      ],
+      "correta": "Aumenta consumo energético",
+      "personagem": "abelha_trabalhadora.png",
+      "dica": "A mineração consome enormes quantidades de energia elétrica."
+    },
+    {
+      "pergunta": "O que significa ESG?",
+      "alternativas": [
+        "Energia Solar Global",
+        "Economia Sustentável Geral",
+        "Environmental, Social and Governance",
+        "Energia Sem Gás"
+      ],
+      "correta": "Environmental, Social and Governance",
+      "personagem": "arara_azul.png",
+      "dica": "ESG é um conjunto de critérios ambientais, sociais e de governança."
+    },
+    {
+      "pergunta": "Qual tecnologia pode prever enchentes com maior precisão?",
+      "alternativas": [
+        "Blockchain",
+        "Big Data",
+        "Energia fóssil",
+        "Marketing digital"
+      ],
+      "correta": "Big Data",
+      "personagem": "guardiao_floresta.png",
+      "dica": "Big Data analisa grandes volumes de dados climáticos."
+    },
+    {
+      "pergunta": "O que é economia de baixo carbono?",
+      "alternativas": [
+        "Produção de carvão",
+        "Uso de petróleo",
+        "Redução de emissões de CO2",
+        "Aumento de carros"
+      ],
+      "correta": "Redução de emissões de CO2",
+      "personagem": "inseto_engenhoso.png",
+      "dica": "Economia de baixo carbono busca reduzir gases de efeito estufa."
+    },
+    {
+      "pergunta": "Qual é o principal objetivo da COP (Conferência do Clima)?",
+      "alternativas": [
+        "Aumentar poluição",
+        "Definir metas climáticas globais",
+        "Produzir petróleo",
+        "Expandir mineração"
+      ],
+      "correta": "Definir metas climáticas globais",
+      "personagem": "lemure_divertido.png",
+      "dica": "A COP reúne países para acordos ambientais."
+    },
+    {
+      "pergunta": "Qual é o impacto da obsolescência programada?",
+      "alternativas": [
+        "Reduz lixo eletrônico",
+        "Aumenta durabilidade",
+        "Gera mais resíduos",
+        "Neutraliza carbono"
+      ],
+      "correta": "Gera mais resíduos",
+      "personagem": "peixe_aventureiro.png",
+      "dica": "Produtos feitos para durar pouco aumentam o lixo eletrônico."
+    },
+    {
+      "pergunta": "Qual é a função da Agenda 2030 da ONU?",
+      "alternativas": [
+        "Produzir petróleo",
+        "Gerar carvão",
+        "Definir Objetivos de Desenvolvimento Sustentável",
+        "Aumentar poluição"
+      ],
+      "correta": "Definir Objetivos de Desenvolvimento Sustentável",
+      "personagem": "protetor_arvores.png",
+      "dica": "A Agenda 2030 define metas globais de sustentabilidade."
+    },
+    {
+      "pergunta": "Qual é o maior desafio da energia nuclear?",
+      "alternativas": [
+        "Baixo custo",
+        "Resíduos radioativos",
+        "Produção de carvão",
+        "Neutralidade de carbono"
+      ],
+      "correta": "Resíduos radioativos",
+      "personagem": "tartaruga_sabia.png",
+      "dica": "O lixo nuclear é difícil de armazenar com segurança."
+    },
+    {
+      "pergunta": "O que significa biodiversidade?",
+      "alternativas": [
+        "Variedade de espécies vivas",
+        "Quantidade de carbono",
+        "Área de floresta",
+        "Produção de energia"
+      ],
+      "correta": "Variedade de espécies vivas",
+      "personagem": "robo_ecologico.png",
+      "dica": "Biodiversidade é a diversidade de vida no planeta."
+    },
+    {
+      "pergunta": "Qual é a principal consequência do aquecimento global?",
+      "alternativas": [
+        "Mais chuvas",
+        "Redução de CO2",
+        "Derretimento das calotas polares",
+        "Aumento de oxigênio"
+      ],
+      "correta": "Derretimento das calotas polares",
+      "personagem": "urso_ecologico.png",
+      "dica": "O aquecimento global acelera o derretimento do gelo polar."
+    }
+  ]
+}
