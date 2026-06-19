@@ -1,1 +1,21 @@
-{"nome": "Jogador", "pontuacao_total": 0, "trofeus": [], "historico": []}
+{
+  "nome": "Jogador",
+  "pontuacao_total": 5,
+  "trofeus": [],
+  "historico": [
+    {
+      "dificuldade": "Fácil",
+      "pontuacao": 0,
+      "total_perguntas": 10,
+      "trofeu_conquistado": false,
+      "data": "2026-06-18T20:25:39"
+    },
+    {
+      "dificuldade": "Pesadelo",
+      "pontuacao": 5,
+      "total_perguntas": 10,
+      "trofeu_conquistado": false,
+      "data": "2026-06-18T20:34:23"
+    }
+  ]
+}
